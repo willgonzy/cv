@@ -1,0 +1,43 @@
+body{
+  background-color:black;
+  color: white;
+
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #ffa5a5;
+  border-width: 5px;
+  width: 5%;
+}
+
+ul{
+  list-style: none;
+}
+a {
+  color:#ffa5a5; 
+}
+h1{
+  color:#ffa5a5;
+}
+
+h3 {
+  color:#ffa5a5;
+
+}
+
+.title-sections{
+  text-align: center;
+}
+footer {
+  text-align: center;
+  margin: 5px;
+
+}
+footer a:active{
+  color: pink;
+}
+footer a:visited{
+  color:purple;
+}
